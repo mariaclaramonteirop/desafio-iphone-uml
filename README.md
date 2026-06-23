@@ -77,5 +77,3 @@ cd desafio-iphone-uml
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-```bash Este README fornece uma visão geral clara do projeto, incluindo seu objetivo, funcionalidades, estrutura do projeto, diagrama UML e instruções sobre como executar o projeto.```
